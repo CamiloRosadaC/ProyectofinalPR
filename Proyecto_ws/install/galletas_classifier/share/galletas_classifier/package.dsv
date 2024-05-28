@@ -1,0 +1,9 @@
+source;share/galletas_classifier/hook/pythonpath.ps1
+source;share/galletas_classifier/hook/pythonpath.dsv
+source;share/galletas_classifier/hook/pythonpath.sh
+source;share/galletas_classifier/hook/ament_prefix_path.ps1
+source;share/galletas_classifier/hook/ament_prefix_path.dsv
+source;share/galletas_classifier/hook/ament_prefix_path.sh
+source;../../build/galletas_classifier/share/galletas_classifier/hook/pythonpath_develop.ps1
+source;../../build/galletas_classifier/share/galletas_classifier/hook/pythonpath_develop.dsv
+source;../../build/galletas_classifier/share/galletas_classifier/hook/pythonpath_develop.sh

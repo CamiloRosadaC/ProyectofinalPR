@@ -1,0 +1,5 @@
+[console_scripts]
+classification_sub = galletas_classifier.classification_sub:main
+display_sub = galletas_classifier.display_sub:main
+webcam_pub = galletas_classifier.webcam_pub:main
+

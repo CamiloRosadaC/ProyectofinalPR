@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/galletas_classifier/galletas_classifier.egg-info/PKG-INFO
+writing dependency_links to ../../build/galletas_classifier/galletas_classifier.egg-info/dependency_links.txt
+writing entry points to ../../build/galletas_classifier/galletas_classifier.egg-info/entry_points.txt
+writing requirements to ../../build/galletas_classifier/galletas_classifier.egg-info/requires.txt
+writing top-level names to ../../build/galletas_classifier/galletas_classifier.egg-info/top_level.txt
+reading manifest file '../../build/galletas_classifier/galletas_classifier.egg-info/SOURCES.txt'
+writing manifest file '../../build/galletas_classifier/galletas_classifier.egg-info/SOURCES.txt'
+running build
+running build_py
+copying galletas_classifier/webcam_pub.py -> /home/camilo/Proyecto_ws/build/galletas_classifier/build/lib/galletas_classifier
+running install
+running install_lib
+copying /home/camilo/Proyecto_ws/build/galletas_classifier/build/lib/galletas_classifier/webcam_pub.py -> /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier
+byte-compiling /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier/webcam_pub.py to webcam_pub.cpython-310.pyc
+running install_egg_info
+removing '/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/galletas_classifier/galletas_classifier.egg-info to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier-0.0.0-py3.10.egg-info
+running install_scripts
+Installing classification_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+Installing display_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+Installing webcam_pub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+writing list of installed files to '/home/camilo/Proyecto_ws/build/galletas_classifier/install.log'

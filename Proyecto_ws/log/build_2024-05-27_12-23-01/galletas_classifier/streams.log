@@ -1,0 +1,25 @@
+[0.452s] Invoking command in '/home/camilo/Proyecto_ws/src/galletas_classifier': PYTHONPATH=/home/camilo/Proyecto_ws/build/galletas_classifier/prefix_override:/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/galletas_classifier build --build-base /home/camilo/Proyecto_ws/build/galletas_classifier/build install --record /home/camilo/Proyecto_ws/build/galletas_classifier/install.log --single-version-externally-managed
+[0.635s] running egg_info
+[0.635s] writing ../../build/galletas_classifier/galletas_classifier.egg-info/PKG-INFO
+[0.636s] writing dependency_links to ../../build/galletas_classifier/galletas_classifier.egg-info/dependency_links.txt
+[0.636s] writing entry points to ../../build/galletas_classifier/galletas_classifier.egg-info/entry_points.txt
+[0.636s] writing requirements to ../../build/galletas_classifier/galletas_classifier.egg-info/requires.txt
+[0.636s] writing top-level names to ../../build/galletas_classifier/galletas_classifier.egg-info/top_level.txt
+[0.638s] reading manifest file '../../build/galletas_classifier/galletas_classifier.egg-info/SOURCES.txt'
+[0.638s] writing manifest file '../../build/galletas_classifier/galletas_classifier.egg-info/SOURCES.txt'
+[0.639s] running build
+[0.639s] running build_py
+[0.639s] copying galletas_classifier/classification_sub.py -> /home/camilo/Proyecto_ws/build/galletas_classifier/build/lib/galletas_classifier
+[0.639s] running install
+[0.640s] running install_lib
+[0.640s] copying /home/camilo/Proyecto_ws/build/galletas_classifier/build/lib/galletas_classifier/classification_sub.py -> /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier
+[0.641s] byte-compiling /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier/classification_sub.py to classification_sub.cpython-310.pyc
+[0.641s] running install_egg_info
+[0.642s] removing '/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier-0.0.0-py3.10.egg-info' (and everything under it)
+[0.643s] Copying ../../build/galletas_classifier/galletas_classifier.egg-info to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier-0.0.0-py3.10.egg-info
+[0.643s] running install_scripts
+[0.659s] Installing classification_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.659s] Installing display_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.659s] Installing webcam_pub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.659s] writing list of installed files to '/home/camilo/Proyecto_ws/build/galletas_classifier/install.log'
+[0.677s] Invoked command in '/home/camilo/Proyecto_ws/src/galletas_classifier' returned '0': PYTHONPATH=/home/camilo/Proyecto_ws/build/galletas_classifier/prefix_override:/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/galletas_classifier build --build-base /home/camilo/Proyecto_ws/build/galletas_classifier/build install --record /home/camilo/Proyecto_ws/build/galletas_classifier/install.log --single-version-externally-managed

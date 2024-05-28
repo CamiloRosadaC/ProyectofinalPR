@@ -1,0 +1,5 @@
+  File "/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas_classifier/classification_sub.py", line 22
+    name = class
+           ^^^^^
+SyntaxError: invalid syntax
+

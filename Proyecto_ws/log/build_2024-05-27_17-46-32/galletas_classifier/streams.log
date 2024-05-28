@@ -1,0 +1,20 @@
+[0.475s] Invoking command in '/home/camilo/Proyecto_ws/build/galletas_classifier': PYTHONPATH=/home/camilo/Proyecto_ws/build/galletas_classifier/prefix_override:/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/camilo/Proyecto_ws/build/galletas_classifier/build --no-deps
+[0.679s] running develop
+[0.679s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.679s]   warnings.warn(
+[0.816s] running egg_info
+[0.816s] writing galletas_classifier.egg-info/PKG-INFO
+[0.817s] writing dependency_links to galletas_classifier.egg-info/dependency_links.txt
+[0.817s] writing entry points to galletas_classifier.egg-info/entry_points.txt
+[0.817s] writing requirements to galletas_classifier.egg-info/requires.txt
+[0.817s] writing top-level names to galletas_classifier.egg-info/top_level.txt
+[0.818s] reading manifest file 'galletas_classifier.egg-info/SOURCES.txt'
+[0.819s] writing manifest file 'galletas_classifier.egg-info/SOURCES.txt'
+[0.820s] running build_ext
+[0.820s] Creating /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas-classifier.egg-link (link to .)
+[0.821s] Installing classification_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.821s] Installing display_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.821s] Installing webcam_pub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+[0.821s] 
+[0.821s] Installed /home/camilo/Proyecto_ws/build/galletas_classifier
+[0.843s] Invoked command in '/home/camilo/Proyecto_ws/build/galletas_classifier' returned '0': PYTHONPATH=/home/camilo/Proyecto_ws/build/galletas_classifier/prefix_override:/home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/camilo/Proyecto_ws/build/galletas_classifier/build --no-deps

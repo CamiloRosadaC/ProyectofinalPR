@@ -1,0 +1,18 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing galletas_classifier.egg-info/PKG-INFO
+writing dependency_links to galletas_classifier.egg-info/dependency_links.txt
+writing entry points to galletas_classifier.egg-info/entry_points.txt
+writing requirements to galletas_classifier.egg-info/requires.txt
+writing top-level names to galletas_classifier.egg-info/top_level.txt
+reading manifest file 'galletas_classifier.egg-info/SOURCES.txt'
+writing manifest file 'galletas_classifier.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/camilo/Proyecto_ws/install/galletas_classifier/lib/python3.10/site-packages/galletas-classifier.egg-link (link to .)
+Installing classification_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+Installing display_sub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+Installing webcam_pub script to /home/camilo/Proyecto_ws/install/galletas_classifier/lib/galletas_classifier
+
+Installed /home/camilo/Proyecto_ws/build/galletas_classifier
